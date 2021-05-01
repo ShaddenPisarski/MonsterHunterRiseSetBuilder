@@ -1,0 +1,1129 @@
+[
+  {
+    "name": "Ingot Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 40,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": -1,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "thunderAttack": 3
+    }
+  },
+  {
+    "name": "Izuchi Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": -1,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "constitution": 2
+    }
+  },
+  {
+    "name": "Jaggi Gauntlets S",
+    "rank": "high",
+    "level": 1,
+    "defense": 42,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0,
+    "skills": {
+      "attackBoost": 2
+    }
+  },
+  {
+    "name": "Jelly Gloves S",
+    "rank": "high",
+    "level": 1,
+    "defense": 62,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 1,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 0,
+    "skills": {
+      "divineBlessing": 2
+    }
+  },
+  {
+    "name": "Jyuratodus Vambraces",
+    "rank": "high",
+    "level": 1,
+    "defense": 48,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 1
+    },
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {}
+  },
+  {
+    "name": "Tobi-Kadachi Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 58,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -3,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "constitution": 3
+    }
+  },
+  {
+    "name": "Kamura Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 30,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalEye": 2,
+      "heroics": 1
+    }
+  },
+  {
+    "name": "Khezu Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 2,
+    "dragonResistance": 1,
+    "skills": {
+      "recoverySpeed": 1,
+      "thunderAttack": 2,
+      "wallRunner": 1
+    }
+  },
+  {
+    "name": "Kulu-Ya-Ku Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -3,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0,
+    "skills": {
+      "slugger": 1,
+      "staminaThief": 2
+    }
+  },
+  {
+    "name": "Lagombi Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalEye": 2,
+      "iceAttack": 1
+    }
+  },
+  {
+    "name": "Leather Gloves S",
+    "rank": "high",
+    "level": 1,
+    "defense": 30,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "geologist": 1,
+      "specialAmmoBoost": 1
+    }
+  },
+  {
+    "name": "Ludroth Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 48,
+    "slots": {
+      "level1": 2,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": -1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "marathonRunner": 1
+    }
+  },
+  {
+    "name": "Makluva Sleeves S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 1,
+    "waterResistance": 2,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "bubblyDance": 1,
+      "leapOfFaith": 1
+    }
+  },
+  {
+    "name": "Melahoa Branch S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "botanist": 1,
+      "paralysisResistance": 1,
+      "recoveryUp": 1
+    }
+  },
+  {
+    "name": "Mizutsune Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 60,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": -3,
+    "iceResistance": 1,
+    "dragonResistance": -1,
+    "skills": {
+      "freeMeal": 1,
+      "resuscitate": 1
+    }
+  },
+  {
+    "name": "Mosgharl Creeper S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0,
+    "skills": {
+      "blastResistance": 1,
+      "flinchFree": 1
+    }
+  },
+  {
+    "name": "Nargacuga Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 60,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 1,
+    "thunderResistance": -3,
+    "iceResistance": 1,
+    "dragonResistance": 1,
+    "skills": {
+      "evadeExtender": 1,
+      "evadeWindow": 1
+    }
+  },
+  {
+    "name": "Narwa's Pauldrons",
+    "rank": "high",
+    "level": 1,
+    "defense": 76,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": -3,
+    "dragonResistance": -4,
+    "skills": {
+      "guard": 1,
+      "partbreaker": 1,
+      "thunderAlignment": 1
+    }
+  },
+  {
+    "name": "Pukei-Pukei Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 50,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": 1,
+    "skills": {
+      "aimBooster": 1,
+      "spareShot": 1
+    }
+  },
+  {
+    "name": "Rakna Armguards",
+    "rank": "high",
+    "level": 1,
+    "defense": 66,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 4,
+    "waterResistance": -2,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": 1,
+    "skills": {
+      "constitution": 2,
+      "staminaSurge": 1
+    }
+  },
+  {
+    "name": "Rathalos Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 62,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": -2,
+    "iceResistance": 1,
+    "dragonResistance": -3,
+    "skills": {
+      "attackBoost": 2
+    }
+  },
+  {
+    "name": "Rathian Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": -3,
+    "skills": {
+      "blightResistance": 1,
+      "wideRange": 1
+    }
+  },
+  {
+    "name": "Remobra Gloves S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 1,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 3,
+    "skills": {
+      "criticalElement": 1,
+      "windproof": 1
+    }
+  },
+  {
+    "name": "Rhenoplos Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 42,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": -2,
+    "dragonResistance": 0,
+    "skills": {
+      "artillery": 2
+    }
+  },
+  {
+    "name": "S. Studded Gloves S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "normalRapidUp": 1,
+      "spreadUp": 1
+    }
+  },
+  {
+    "name": "Sinister Gauntlets S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -2,
+    "iceResistance": 1,
+    "dragonResistance": 1,
+    "skills": {
+      "handicraft": 2,
+      "hellfireCloak": 1
+    }
+  },
+  {
+    "name": "Skalda Brachia S / Spio Brachia S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -1,
+    "thunderResistance": -1,
+    "iceResistance": -1,
+    "dragonResistance": 3,
+    "skills": {
+      "latentPower": 1,
+      "poisonResistance": 1
+    }
+  },
+  {
+    "name": "Somnacanth Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 58,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": 1,
+    "skills": {
+      "bombardier": 2,
+      "divineBlessing": 1
+    }
+  },
+  {
+    "name": "Tetranadon Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 40,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 4,
+    "thunderResistance": -2,
+    "iceResistance": 1,
+    "dragonResistance": 0,
+    "skills": {
+      "heroics": 1,
+      "specialAmmoBoost": 1
+    }
+  },
+  {
+    "name": "Tigrex Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": -2,
+    "skills": {
+      "bludgeoner": 2,
+      "mindsEye": 1
+    }
+  },
+  {
+    "name": "Utsushi Braces (H) S / Channeler Hope S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "evadeWindow": 1,
+      "wirebugWhisperer": 1
+    }
+  },
+  {
+    "name": "Utsushi Braces (V) S / Medium’s Prayer S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "wideRange": 1
+    }
+  },
+  {
+    "name": "Vaik Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": -2,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "normalRapidUp": 2
+    }
+  },
+  {
+    "name": "Volvidon Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 50,
+    "slots": {
+      "level1": 3,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": -3,
+    "thunderResistance": 0,
+    "iceResistance": -1,
+    "dragonResistance": 1,
+    "skills": {
+      "evadeExtender": 1,
+      "paralysisAttack": 1
+    }
+  },
+  {
+    "name": "Wroggi Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": 2,
+    "waterResistance": -2,
+    "thunderResistance": 1,
+    "iceResistance": -4,
+    "dragonResistance": 0,
+    "skills": {
+      "ammoUp": 1
+    }
+  },
+  {
+    "name": "Zinogre Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 62,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -1,
+    "thunderResistance": 4,
+    "iceResistance": -4,
+    "dragonResistance": 1,
+    "skills": {
+      "constitution": 1,
+      "latentPower": 1
+    }
+  },
+  {
+    "name": "Aknosom Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "fireAttack": 1,
+      "peakPerformance": 1
+    }
+  },
+  {
+    "name": "Almudron Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": 3,
+    "thunderResistance": 3,
+    "iceResistance": -2,
+    "dragonResistance": -2,
+    "skills": {
+      "evadeWindow": 2,
+      "rapidMorph": 1
+    }
+  },
+  {
+    "name": "Anjanath Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 60,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "attackBoost": 2,
+      "slugger": 2
+    }
+  },
+  {
+    "name": "Arzuros Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "counterstrike": 1,
+      "defenseBoost": 2
+    }
+  },
+  {
+    "name": "Barioth Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 58,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": 3,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalEye": 1,
+      "maximumMight": 1,
+      "quickSheath": 1
+    }
+  },
+  {
+    "name": "Barroth Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 50,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": -1,
+    "thunderResistance": 3,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "affinitySliding": 1,
+      "attackBoost": 2
+    }
+  },
+  {
+    "name": "Basarios Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -2,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": -3,
+    "skills": {
+      "guard": 2,
+      "speedSharpening": 1
+    }
+  },
+  {
+    "name": "Bishaten Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": -4,
+    "dragonResistance": 2,
+    "skills": {
+      "itemProlonger": 1,
+      "stunResistance": 1
+    }
+  },
+  {
+    "name": "Bnahabra Gloves S",
+    "rank": "high",
+    "level": 1,
+    "defense": 34,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 2,
+    "skills": {
+      "evadeWindow": 1,
+      "poisonAttack": 2
+    }
+  },
+  {
+    "name": "Bone Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "muckResistance": 1,
+      "staminaThief": 1
+    }
+  },
+  {
+    "name": "Chainmail Gloves S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "botanist": 1,
+      "defenseBoost": 2
+    }
+  },
+  {
+    "name": "Death Stench Grip S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "maximumMight": 2
+    }
+  },
+  {
+    "name": "Diablos Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -1,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": -1,
+    "skills": {
+      "offensiveGuard": 1
+    }
+  },
+  {
+    "name": "Dober Vambraces",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4,
+    "skills": {
+      "dragonAttack": 1,
+      "powerProlonger": 1
+    }
+  },
+  {
+    "name": "Edel Creeper S",
+    "rank": "high",
+    "level": 1,
+    "defense": 40,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 3,
+    "thunderResistance": -1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "captureMaster": 1
+    }
+  },
+  {
+    "name": "Golden Kote",
+    "rank": "high",
+    "level": 1,
+    "defense": 70,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": -5,
+    "dragonResistance": 2,
+    "skills": {
+      "heroics": 1,
+      "latentPower": 1
+    }
+  },
+  {
+    "name": "Goss Harag Braces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": 1,
+    "thunderResistance": -1,
+    "iceResistance": 4,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalDraw": 1,
+      "punishingDraw": 1
+    }
+  },
+  {
+    "name": "Hunter's Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "quickSheath": 1
+    }
+  },
+  {
+    "name": "Ibushi's Pauldrons",
+    "rank": "high",
+    "level": 1,
+    "defense": 66,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -2,
+    "skills": {
+      "constitution": 1,
+      "staminaSurge": 1,
+      "windAlignment": 1
+    }
+  },
+  {
+    "name": "Alloy Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalEye": 2,
+      "waterAttack": 1
+    }
+  },
+  {
+    "name": "Baggi Vambraces S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": -1,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": 1,
+    "skills": {
+      "iceAttack": 1,
+      "sleepResistance": 2
+    }
+  }
+]

@@ -1,0 +1,1265 @@
+[
+  {
+    "name": "Ingot Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 40,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": -1,
+    "waterResistance": -1,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "windproof": 1
+    }
+  },
+  {
+    "name": "Izuchi Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": -1,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalEye": 1
+    }
+  },
+  {
+    "name": "Jaggi Mask S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "affinitySliding": 1
+    }
+  },
+  {
+    "name": "Jelly Hat S",
+    "rank": "high",
+    "level": 1,
+    "defense": 62,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": 1,
+    "waterResistance": 3,
+    "thunderResistance": 0,
+    "iceResistance": 2,
+    "dragonResistance": 0,
+    "skills": {
+      "divineBlessing": 1,
+      "partbreaker": 1
+    }
+  },
+  {
+    "name": "Jyuratodus Helm",
+    "rank": "high",
+    "level": 1,
+    "defense": 48,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "evadeExtender": 1,
+      "offensiveGuard": 1
+    }
+  },
+  {
+    "name": "Kadachi Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 58,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -3,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "constitution": 1,
+      "criticalEye": 1,
+      "jumpMaster": 1
+    }
+  },
+  {
+    "name": "Kamura Head Scarf S",
+    "rank": "high",
+    "level": 1,
+    "defense": 30,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "divineBlessing": 1,
+      "resuscitate": 1
+    }
+  },
+  {
+    "name": "Khezu Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": 2,
+    "dragonResistance": 1,
+    "skills": {
+      "focus": 1,
+      "recoveryUp": 1
+    }
+  },
+  {
+    "name": "Kulu-Ya-Ku Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -3,
+    "thunderResistance": 0,
+    "iceResistance": 1,
+    "dragonResistance": 0,
+    "skills": {
+      "maximumMight": 1
+    }
+  },
+  {
+    "name": "Lagombi Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": -3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalEye": 1,
+      "iceAttack": 2
+    }
+  },
+  {
+    "name": "Leather Headgear S",
+    "rank": "high",
+    "level": 1,
+    "defense": 30,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "geologist": 1,
+      "hungerResistance": 1
+    }
+  },
+  {
+    "name": "Ludroth Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 48,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": 4,
+    "thunderResistance": -1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "marathonRunner": 1,
+      "peakPerformance": 1
+    }
+  },
+  {
+    "name": "Makluva Hood S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 2,
+      "level3": 0
+    },
+    "fireResistance": 1,
+    "waterResistance": 2,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "sleepResistance": 2
+    }
+  },
+  {
+    "name": "Melahoa Hat S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 2,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "paralysisResistance": 2
+    }
+  },
+  {
+    "name": "Mighty Bow Feather",
+    "rank": "high",
+    "level": 1,
+    "defense": 56,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "bowChargePlus": 1
+    }
+  },
+  {
+    "name": "Mizutsune Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 60,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": -3,
+    "iceResistance": 1,
+    "dragonResistance": -1,
+    "skills": {
+      "resuscitate": 1
+    }
+  },
+  {
+    "name": "Mosgharl Vizor S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 2,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": 1,
+    "thunderResistance": 0,
+    "iceResistance": 3,
+    "dragonResistance": 0,
+    "skills": {
+      "blastResistance": 2
+    }
+  },
+  {
+    "name": "Nargacuga Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 60,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": -2,
+    "waterResistance": 1,
+    "thunderResistance": -3,
+    "iceResistance": 1,
+    "dragonResistance": 1,
+    "skills": {
+      "evadeWindow": 1
+    }
+  },
+  {
+    "name": "Narwa's Helm",
+    "rank": "high",
+    "level": 1,
+    "defense": 76,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 4,
+    "iceResistance": -3,
+    "dragonResistance": -4,
+    "skills": {
+      "offensiveGuard": 1,
+      "rapidMorph": 1,
+      "thunderAlignment": 1
+    }
+  },
+  {
+    "name": "Pukei-Pukei Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 50,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": 1,
+    "skills": {
+      "spareShot": 1,
+      "specialAmmoBoost": 1
+    }
+  },
+  {
+    "name": "Rakna Helm",
+    "rank": "high",
+    "level": 1,
+    "defense": 66,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 4,
+    "waterResistance": -2,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": 1,
+    "skills": {
+      "reloadSpeed": 1,
+      "spreadUp": 1
+    }
+  },
+  {
+    "name": "Rathalos Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 62,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": -2,
+    "iceResistance": 1,
+    "dragonResistance": -3,
+    "skills": {
+      "attackBoost": 1,
+      "partbreaker": 1
+    }
+  },
+  {
+    "name": "Rathian Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": -3,
+    "skills": {
+      "blightResistance": 1
+    }
+  },
+  {
+    "name": "Remobra Headgear S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 1,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": 3,
+    "skills": {
+      "windproof": 2
+    }
+  },
+  {
+    "name": "Rhenoplos Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 42,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": -2,
+    "dragonResistance": 0,
+    "skills": {
+      "pierceUp": 2,
+      "stunResistance": 1
+    }
+  },
+  {
+    "name": "S. Studded Hat S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 2,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "aimBooster": 2
+    }
+  },
+  {
+    "name": "Sinister Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -2,
+    "iceResistance": 1,
+    "dragonResistance": 1,
+    "skills": {
+      "flinchFree": 1,
+      "handicraft": 1,
+      "resentment": 1
+    }
+  },
+  {
+    "name": "Skalda Vertex S / Spio Vertex S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -1,
+    "thunderResistance": -1,
+    "iceResistance": -1,
+    "dragonResistance": 3,
+    "skills": {
+      "poisonAttack": 2
+    }
+  },
+  {
+    "name": "Skull Visage S",
+    "rank": "high",
+    "level": 1,
+    "defense": 50,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 1
+    },
+    "fireResistance": -3,
+    "waterResistance": -3,
+    "thunderResistance": -3,
+    "iceResistance": -3,
+    "dragonResistance": 4,
+    "skills": {
+      "fortify": 1
+    }
+  },
+  {
+    "name": "Slagtoth Hood S",
+    "rank": "high",
+    "level": 1,
+    "defense": 42,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 0,
+    "iceResistance": -1,
+    "dragonResistance": 1,
+    "skills": {
+      "diversion": 1,
+      "freeMeal": 1
+    }
+  },
+  {
+    "name": "Somnacanth Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 58,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 2,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": 1,
+    "skills": {
+      "sleepAttack": 1
+    }
+  },
+  {
+    "name": "Tetranadon Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 40,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 4,
+    "thunderResistance": -2,
+    "iceResistance": 1,
+    "dragonResistance": 0,
+    "skills": {
+      "normalRapidUp": 1,
+      "speedEating": 1
+    }
+  },
+  {
+    "name": "Tigrex Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 0,
+    "thunderResistance": -3,
+    "iceResistance": 0,
+    "dragonResistance": -2,
+    "skills": {
+      "earplugs": 1,
+      "speedEating": 1
+    }
+  },
+  {
+    "name": "Utsushi Mask (H) S / Channeler Hair-tie S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "razorSharp": 2,
+      "spareShot": 2,
+      "wirebugWhisperer": 1
+    }
+  },
+  {
+    "name": "Utsushi Mask (V) S / Medium’s Hair-tie S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "freeMeal": 1,
+      "goodLuck": 1,
+      "speedEating": 1
+    }
+  },
+  {
+    "name": "Vaik Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 3,
+    "thunderResistance": -2,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "ammoUp": 2
+    }
+  },
+  {
+    "name": "Volvidon Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 50,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": -3,
+    "thunderResistance": 0,
+    "iceResistance": -1,
+    "dragonResistance": 1,
+    "skills": {
+      "bludgeoner": 1,
+      "paralysisAttack": 2
+    }
+  },
+  {
+    "name": "Wroggi Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": -2,
+    "thunderResistance": 1,
+    "iceResistance": -4,
+    "dragonResistance": 0,
+    "skills": {
+      "evadeExtender": 1,
+      "rapidFireUp": 1
+    }
+  },
+  {
+    "name": "Zinogre Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 62,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -1,
+    "thunderResistance": 4,
+    "iceResistance": -4,
+    "dragonResistance": 1,
+    "skills": {
+      "latentPower": 1,
+      "weaknessExploit": 1
+    }
+  },
+  {
+    "name": "Aknosom Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 38,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "fireAttack": 1,
+      "quickSheath": 1
+    }
+  },
+  {
+    "name": "Almudron Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 0,
+      "level2": 2,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": 3,
+    "thunderResistance": 3,
+    "iceResistance": -2,
+    "dragonResistance": -2,
+    "skills": {
+      "rapidMorph": 2
+    }
+  },
+  {
+    "name": "Anjanath Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 60,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -3,
+    "thunderResistance": -1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "focus": 1,
+      "slugger": 1
+    }
+  },
+  {
+    "name": "Arzuros Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 0,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "defenseBoost": 1,
+      "fortify": 1
+    }
+  },
+  {
+    "name": "Barioth Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 58,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": 3,
+    "dragonResistance": 0,
+    "skills": {
+      "criticalDraw": 2
+    }
+  },
+  {
+    "name": "Barroth Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 50,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": -1,
+    "thunderResistance": 3,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "attackBoost": 1,
+      "defenseBoost": 1,
+      "offensiveGuard": 1
+    }
+  },
+  {
+    "name": "Basarios Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": -2,
+    "thunderResistance": 1,
+    "iceResistance": 1,
+    "dragonResistance": -3,
+    "skills": {
+      "defenseBoost": 2,
+      "loadShells": 1
+    }
+  },
+  {
+    "name": "Bishaten Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 2,
+    "thunderResistance": 2,
+    "iceResistance": -4,
+    "dragonResistance": 2,
+    "skills": {
+      "itemProlonger": 1,
+      "stunResistance": 1,
+      "wideRange": 1
+    }
+  },
+  {
+    "name": "Bnahabra Hat S",
+    "rank": "high",
+    "level": 1,
+    "defense": 34,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 2,
+    "skills": {
+      "poisonAttack": 1,
+      "recoilDown": 2
+    }
+  },
+  {
+    "name": "Bone Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "partbreaker": 1,
+      "staminaThief": 1
+    }
+  },
+  {
+    "name": "Brigade Lobos S",
+    "rank": "high",
+    "level": 1,
+    "defense": 62,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 1
+    },
+    "fireResistance": 1,
+    "waterResistance": 0,
+    "thunderResistance": 2,
+    "iceResistance": 0,
+    "dragonResistance": 2,
+    "skills": {
+      "botanist": 2
+    }
+  },
+  {
+    "name": "Bullfango Mask S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 4,
+    "thunderResistance": -2,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "bludgeoner": 2
+    }
+  },
+  {
+    "name": "Chainmail Headgear S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "botanist": 1,
+      "defenseBoost": 1
+    }
+  },
+  {
+    "name": "Chaos Archbun",
+    "rank": "high",
+    "level": 1,
+    "defense": 40,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": -2,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "mushroomancer": 1
+    }
+  },
+  {
+    "name": "Death Stench Brain S",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": 1,
+    "thunderResistance": 1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "protectivePolish": 1
+    }
+  },
+  {
+    "name": "Diablos Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 3,
+    "waterResistance": -1,
+    "thunderResistance": -1,
+    "iceResistance": -3,
+    "dragonResistance": -1,
+    "skills": {
+      "guard": 1,
+      "staminaSurge": 1
+    }
+  },
+  {
+    "name": "Dober Helm",
+    "rank": "high",
+    "level": 1,
+    "defense": 52,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -2,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 4,
+    "skills": {
+      "attackBoost": 1,
+      "dragonAttack": 1,
+      "heroics": 1
+    }
+  },
+  {
+    "name": "Edel Vizor S",
+    "rank": "high",
+    "level": 1,
+    "defense": 40,
+    "slots": {
+      "level1": 0,
+      "level2": 2,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 3,
+    "thunderResistance": -1,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "poisonResistance": 2
+    }
+  },
+  {
+    "name": "Gargwa Mask S",
+    "rank": "high",
+    "level": 1,
+    "defense": 54,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -3,
+    "waterResistance": -2,
+    "thunderResistance": -2,
+    "iceResistance": 1,
+    "dragonResistance": 0,
+    "skills": {
+      "goodLuck": 1,
+      "leapOfFaith": 1
+    }
+  },
+  {
+    "name": "Golden Headdress",
+    "rank": "high",
+    "level": 1,
+    "defense": 70,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 2,
+    "waterResistance": 1,
+    "thunderResistance": 3,
+    "iceResistance": -5,
+    "dragonResistance": 2,
+    "skills": {
+      "heroics": 2,
+      "maximumMight": 1
+    }
+  },
+  {
+    "name": "Goss Harag Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 64,
+    "slots": {
+      "level1": 2,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": 1,
+    "thunderResistance": -1,
+    "iceResistance": 4,
+    "dragonResistance": 0,
+    "skills": {
+      "agitator": 1,
+      "criticalDraw": 1
+    }
+  },
+  {
+    "name": "Hunter's Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 0,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": 0,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": 0,
+    "skills": {
+      "itemProlonger": 1
+    }
+  },
+  {
+    "name": "Ibushi's Helm",
+    "rank": "high",
+    "level": 1,
+    "defense": 66,
+    "slots": {
+      "level1": 0,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 0,
+    "thunderResistance": 0,
+    "iceResistance": 0,
+    "dragonResistance": -2,
+    "skills": {
+      "evadeExtender": 1,
+      "focus": 1,
+      "windAlignment": 1
+    }
+  },
+  {
+    "name": "Alloy Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 32,
+    "slots": {
+      "level1": 1,
+      "level2": 0,
+      "level3": 0
+    },
+    "fireResistance": -1,
+    "waterResistance": 0,
+    "thunderResistance": -1,
+    "iceResistance": -1,
+    "dragonResistance": 0,
+    "skills": {
+      "protectivePolish": 1,
+      "waterAttack": 1
+    }
+  },
+  {
+    "name": "Baggi Helm S",
+    "rank": "high",
+    "level": 1,
+    "defense": 36,
+    "slots": {
+      "level1": 1,
+      "level2": 1,
+      "level3": 0
+    },
+    "fireResistance": -4,
+    "waterResistance": -1,
+    "thunderResistance": -1,
+    "iceResistance": 2,
+    "dragonResistance": 1,
+    "skills": {
+      "iceAttack": 2
+    }
+  }
+]

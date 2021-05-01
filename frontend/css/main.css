@@ -1,0 +1,19 @@
+* {
+    color: whitesmoke;
+}
+
+.hidden {
+    display: none;
+}
+
+.header-container {
+    background-color: #010172;
+}
+
+.main-content {
+    background-color: grey;
+}
+
+.footer {
+    background-color: #010172;
+}
