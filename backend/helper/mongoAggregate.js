@@ -12,18 +12,5 @@ module.exports = function mongoAggregate(client, db, collectionName, pipeLineArr
         cursor.on('end', function () {
             resolve(results);
         });
-
-
-        // collection.aggregate(pipeLineArray, function (err, results) {
-        //     console.log('aggregate err', err);
-        //     console.log('aggregate results', results);
-        //     if (err) {
-        //         client.close();
-        //         console.log('aggregateError', err);
-        //         reject(err);
-        //     }
-        //
-        //     resolve(results)
-        // });
     });
 }

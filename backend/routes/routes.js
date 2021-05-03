@@ -1,17 +1,19 @@
+const MongoClient = require('mongodb').MongoClient;
+const connectToDB = require('./../helper/connectToDb');
+const aggregate = require('./../helper/mongoAggregate');
+const skillList = require('./../helper/allowedSkills')();
+const url = '';
+const client = new MongoClient(url, {useUnifiedTopology: true});
 /**
  * Main route handling
  * @param {Express} app
  * @param {FileList} fs
  */
 module.exports = function routes(app, db) {
-    const MongoClient = require('mongodb').MongoClient;
-    const connectToDB = require('./../helper/connectToDb');
-    const find = require('./../helper/mongoFind');
-    const aggregate = require('./../helper/mongoAggregate');
-    const skillList = require('./../helper/allowedSkills')();
+
     // Handle default routing for empty routes
     // These sites must work without javascript
-    const appRouter = function appRouter(app) {
+    const appRouter = function appRouter(app, _db) {
         //TODO: Add page for request-maker
 
         app.get('/', function defaultRoute(request, response) {
@@ -33,10 +35,6 @@ module.exports = function routes(app, db) {
         });
 
         app.get('/getData', function getDataRoute(request, response) {
-            const url = '';
-            const client = new MongoClient(url, {useUnifiedTopology: true});
-
-
             let skills = request.query.skill;
 
             if (!Array.isArray(skills)) {
@@ -50,11 +48,10 @@ module.exports = function routes(app, db) {
             if (skills) {
                 // Select only the first skill, because we can filter later
                 const whereSkill = 'skills.' + skills[0];
-                connectToDB(client)
-                    .then(function (_db) {
-                        // return find(client, _db, 'combinations', {[whereSkill]: {$exists: true}}, {limit: 5000})
+                // connectToDB(client)
+                //     .then(function (_db) {
                         return aggregate(client, _db, 'combinations', [{$match: {[whereSkill]: {$exists: true}}}, {$limit: 5000}])
-                    })
+                    // })
                     .then(function (armorList) {
 
                         // Filter only of necessary
@@ -85,6 +82,8 @@ module.exports = function routes(app, db) {
             }
         });
     };
-
-    appRouter(app, db);
+    connectToDB(client)
+        .then(function (_db) {
+            return appRouter(app, _db);
+        });
 };
