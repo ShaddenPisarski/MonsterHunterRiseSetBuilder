@@ -12,6 +12,8 @@ module.exports = function routes(app, db) {
     // Handle default routing for empty routes
     // These sites must work without javascript
     const appRouter = function appRouter(app) {
+        //TODO: Add page for request-maker
+
         app.get('/', function defaultRoute(request, response) {
             response.send(null);
         });
@@ -20,7 +22,7 @@ module.exports = function routes(app, db) {
             let possibilities = '<html><head>Help</head><body>'
             let helpString = '';
 
-            for(let skill of skillList) {
+            for (let skill of skillList) {
                 helpString += '<a href="http://81.30.158.74:3001/getData?skill=' + skill + '">' + skill + '</a><br/>'
             }
 
@@ -31,8 +33,6 @@ module.exports = function routes(app, db) {
         });
 
         app.get('/getData', function getDataRoute(request, response) {
-            console.time('Aggregate')
-
             const url = '';
             const client = new MongoClient(url, {useUnifiedTopology: true});
 
@@ -43,11 +43,12 @@ module.exports = function routes(app, db) {
                 skills = [skills];
             }
 
-            if(skillList.indexOf(skills[0]) === -1) {
+            if (skillList.indexOf(skills[0]) === -1) {
                 skills = false;
             }
 
             if (skills) {
+                // Select only the first skill, because we can filter later
                 const whereSkill = 'skills.' + skills[0];
                 connectToDB(client)
                     .then(function (_db) {
@@ -55,7 +56,25 @@ module.exports = function routes(app, db) {
                         return aggregate(client, _db, 'combinations', [{$match: {[whereSkill]: {$exists: true}}}, {$limit: 5000}])
                     })
                     .then(function (armorList) {
-                        console.timeEnd('Aggregate')
+
+                        // Filter only of necessary
+                        if (skills.length > 1 && skills.length < 25) {
+                            armorList = armorList.filter(function filterSkills(element, index, array) {
+                                let objectKeys = Object.keys(element.skills);
+
+                                // If all skills selected aren't present in this loadout - remove it
+                                for (let singleSkill of skills) {
+                                    // TODO Filter if skill has more points than needed
+                                    if (objectKeys.indexOf(singleSkill) === -1) {
+                                        return false;
+                                    }
+                                }
+
+                                return true;
+                            });
+                        }
+
+                        // TODO: Sort after the first three parameters
                         return response.send(armorList);
                     })
                     .catch(function (err) {
